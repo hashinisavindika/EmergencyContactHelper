@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+
+    <!-- Main Blue -->
+    <color name="blue">#1565C0</color>
+
+    <!-- Dark Blue Toolbar -->
+    <color name="blue_dark">#0D47A1</color>
+
+    <!-- Emergency Red -->
+    <color name="red">#C62828</color>
+
+    <!-- Success Green -->
+    <color name="green">#2E7D32</color>
+
+    <!-- Background -->
+    <color name="background">#F5F5F5</color>
+
+    <!-- Card -->
+    <color name="white">#FFFFFF</color>
+
 </resources>
