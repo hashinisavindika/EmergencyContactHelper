@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.EmergencyContactHelper">
         <activity
+            android:name=".quickAccessScreen"
+            android:exported="false" />
+        <activity
+            android:name=".addEditContact"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
