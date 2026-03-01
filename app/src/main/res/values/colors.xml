@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+ akilanethmini
     <!-- Main Blue -->
     <color name="blue">#1565C0</color>
 
@@ -18,5 +19,10 @@
 
     <!-- Card -->
     <color name="white">#FFFFFF</color>
+
+        <color name="blue">#1E4F91</color>
+        <color name="green">#2E7D32</color>
+
+ main
 
 </resources>
