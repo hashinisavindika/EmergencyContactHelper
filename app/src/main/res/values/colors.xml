@@ -1,28 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
- akilanethmini
-    <!-- Main Blue -->
-    <color name="blue">#1565C0</color>
-
-    <!-- Dark Blue Toolbar -->
-    <color name="blue_dark">#0D47A1</color>
-
-    <!-- Emergency Red -->
-    <color name="red">#C62828</color>
-
-    <!-- Success Green -->
-    <color name="green">#2E7D32</color>
-
-    <!-- Background -->
+    <color name="blue">#2196F3</color>
+    <color name="blue_dark">#1976D2</color>
+    <color name="green">#4CAF50</color>
+    <color name="red">#F44336</color>
     <color name="background">#F5F5F5</color>
-
-    <!-- Card -->
     <color name="white">#FFFFFF</color>
-
-        <color name="blue">#1E4F91</color>
-        <color name="green">#2E7D32</color>
-
- main
-
+    <color name="black">#212121</color>
+    <color name="grey">#757575</color>
 </resources>
